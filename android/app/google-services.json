@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888001332803",
+    "project_id": "pedagogue-sportif",
+    "storage_bucket": "pedagogue-sportif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888001332803:android:89f9d6bfaaee3e9ce8b6f6",
+        "android_client_info": {
+          "package_name": "com.elite.pedagogue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888001332803-ebauv9j8nj2e9o7pkuq3pajre8vncmpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmq72WYg_kUjDLLo1K7k_BFMTRfoCtFp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888001332803-ebauv9j8nj2e9o7pkuq3pajre8vncmpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

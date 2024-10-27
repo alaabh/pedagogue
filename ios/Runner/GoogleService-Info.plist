@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDmIWLDmck6nnz1ktlj3uiY34B3HfjDinM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>286286510329</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.elite.pedagogue</string>
+	<key>PROJECT_ID</key>
+	<string>pedagogue-sportif-test</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pedagogue-sportif-test.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:286286510329:ios:995d75965b69abcf318a28</string>
+</dict>
+</plist>
